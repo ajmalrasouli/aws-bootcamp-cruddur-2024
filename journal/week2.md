@@ -299,5 +299,4 @@ def rollbar_test():
     return "Hello World!"
 ```
 
-
 [Rollbar Flask Example](https://github.com/rollbar/rollbar-flask-example/blob/master/hello.py)
